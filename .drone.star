@@ -1,4 +1,4 @@
-repo = "spritsail/plex-media-server"
+repo = "geoffgbsn/plex-docker-amd-transcode"
 architectures = ["amd64", "arm64"]
 publish_branches = ["master", "pass"]
 
