@@ -1,6 +1,6 @@
-repo = "geoffgbsn/plex-docker-amd-transcode"
+repo = "spritsail/plex-media-server"
 architectures = ["amd64", "arm64"]
-publish_branches = ["master", "plexpass"]
+publish_branches = ["master", "pass"]
 
 def main(ctx):
   builds = []
